@@ -1,14 +1,14 @@
 title: Gustavo Monteiro – Wannabe data scientist.
 logo:  # you can add own logo.
-description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-baseurl: "/" # the subpath of your site, e.g. /blog
+description: Interest in applying data science to corporate finance, investments, banking and decision making.
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
   name: Gustavo Monteiro
-  image: '/assets/img/01.png'
+  image: '/assets/img/01.jpg'
   job: FP&A Analyst @ Banco Inter
   bio: Financial analyst interested in using data and quantitative methods to make better business decisions.
   email: monteirogustavop@gmail.com
