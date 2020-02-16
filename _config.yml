@@ -1,35 +1,23 @@
-title: Derrick Wells – Independent Product Designer
+title: Gustavo Monteiro – Wannabe data scientist.
 logo:  # you can add own logo.
 description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-baseurl: "/derrick" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Derrick Wells
-  image: '/assets/img/01.jpg'
-  job: Independent Product Designer
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-  email: forexample@website.com
+  name: Gustavo Monteiro
+  image: '/assets/img/01.png'
+  job: FP&A Analyst @ Banco Inter
+  bio: Financial analyst interested in using data and quantitative methods to make better business decisions.
+  email: monteirogustavop@gmail.com
 
 
 # Contact links
 contact:
-  - name: Twitter
-    link: https://twitter.com/
-  - name: Facebook
-    link: https://facebook.com/
-  - name: Instagram
-    link: https://instagram.com/
-
-
-# Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
-
-
-# Google Analytics
-google-analytics: # add your identifier. For example UA-99631805-1.
+  - name: GitHub
+    link: https://github.com/monteirogustavo
 
 
 # Build settings
